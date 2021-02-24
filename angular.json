@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Scribe3"
+  "defaultProject": "Scribe3",
+  "cli": {
+    "analytics": "cc9319f1-5dfb-4df8-b633-ef13117437a0"
+  }
 }
